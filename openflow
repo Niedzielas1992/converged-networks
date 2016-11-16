@@ -1,4 +1,4 @@
-1. Coto jest OpenFlow:
+#1. Coto jest OpenFlow:
 Def "Standardowy protokół komunikacyjny używany pomiędzy „control” i „data panels"
 OpenFlow  jest protokołem komunikacyjnym umożliwiając zdalny dostęp do poszczegulnych płaszczyzn danych urządzenia sieciowego.
 Głównym zamierzenim twórców protokołu było wsparcie budowy programowalnych sieci komputerowych dzięki standaryzacji oraz dopasowaniu 
