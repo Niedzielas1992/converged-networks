@@ -5,7 +5,7 @@ OpenFlow  jest protokołem komunikacyjnym umożliwiając zdalny dostęp do poszc
 Głównym zamierzenim twórców protokołu było wsparcie budowy programowalnych sieci komputerowych dzięki standaryzacji oraz dopasowaniu 
 do możliwości produkowanych urządzeń.
 
-###2. Zarys działania:bum
+###2. Zarys działania
 Wykorzystując technologię OpenFlow, otrzymujemy bogaty zestaw narzędzi pozwalający na zaawansowaną inżynierię ruchu. 
 Możemy optymalizować transmisję pod kątem zapewnienia odpowiedniego pasma, unikania opóźnień czy liczby węzłów, 
 przez które przechodzi pakiet. Dzięki temu jesteśmy w stanie oferować usługi spełniające wymagania QoS. 
