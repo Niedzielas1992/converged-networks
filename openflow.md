@@ -19,7 +19,7 @@ normalnego działania sieci.
 OpenFlow jest protokołem działającym w drugiej warstwie modelu ISO OSI. Do stworzenia sieci opartej na technologii OpenFlow 
 niezbędne są trzy elementy: przełączniki współpracujące z tym protokołem, kontroler oraz kanał komunikacyjny, 
 wykorzystujący protokół OpenFlow, za pomocą którego kontroler i przełącznik mogą się komunikować.
-![alt text](https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-01/3dde3fec553b8d24a85d7059a3cc629ab33f7578/1-Figure1-1.png)
+![alt text](https://www.google.pl/search?q=:+Idealized+OpenFlow+Switch.+The+Flow+Table+is+controlled+by+a+remote+controller+via+the+Secure+Channel.&espv=2&biw=1093&bih=530&source=lnms&tbm=isch&sa=X&ved=0ahUKEwid8JuiwsbQAhXCXiwKHYrwDV8Q_AUIBygC#tbm=isch&q=openflow+switch+architecture&imgrc=RHPzokJaE_jncM%3A)
 
 ###4.Przełączniki w OpenFlow:
 Przełącznik OpenFlow Jest to element infrastruktury sieciowej działający w warstwie drugiej modelu ISO OSI, 
