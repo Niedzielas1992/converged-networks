@@ -37,3 +37,6 @@ Kanał komunikacyjny Jest to bardzo ważny element w sieciach opartych na techno
 Służy on do komunikacji przełączników z kontrolerami, co jest kluczowe, ponieważ tak naprawdę decyzje o zarządzaniu ruchem w 
 sieci są podejmowane przez kontroler i muszą być rozpropagowane wśród przełączników. Postać danych przesyłanych takim kanałem 
 musi być zgodna ze specyfikacją OpenFlow i zazwyczaj jest zaszyfrowana przy użyciu SSL. 
+
+##Więcej informacji o Protokole można znaleść :
+[OpenFlow](http://archive.openflow.org/documents/openflow-spec-v1.1.0.pdf)
