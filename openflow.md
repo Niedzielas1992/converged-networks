@@ -40,4 +40,6 @@ sieci są podejmowane przez kontroler i muszą być rozpropagowane wśród prze�
 musi być zgodna ze specyfikacją OpenFlow i zazwyczaj jest zaszyfrowana przy użyciu SSL. 
 
 ##Więcej informacji o Protokole można znaleść :
-[OpenFlow](http://archive.openflow.org/documents/openflow-spec-v1.1.0.pdf)
+[OpenFlow Specyfikation](http://archive.openflow.org/documents/openflow-spec-v1.1.0.pdf)
+[OpenFlow version 1.2](https://www.opennetworking.org/images/stories/downloads/sdn-resources/onf-specifications/openflow/openflow-spec-v1.2.pdf)
+[OpenFlow version 1.4](https://www.opennetworking.org/images/stories/downloads/sdn-resources/onf-specifications/openflow/openflow-spec-v1.4.0.pdf)
